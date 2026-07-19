@@ -34,4 +34,4 @@
 - [Паттерн "цепочка ответственности"](https://github.com/PavelMind/origin/tree/main/design%20patterns/Lesson%203/task%203 )
 
 ## Дипломный проект.  
-[Поисковая система](https://github.com/PavelMind/origin/tree/main/diploma%20thesis%20-%20Crawler).
+[Поисковая система](https://github.com/PavelMind/origin/tree/main/diploma%20thesis%20-%20Crawler)
